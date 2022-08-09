@@ -61,7 +61,7 @@ var $plugins =
 {"name":"PopupMessage","status":true,"description":"メッセージの表示をポップアップに変更する制御文字_pum[delay]を追加します。","parameters":{"Pop Message FontSize":"28","Pop Message Count":"200"}},
 {"name":"NOM_DestImageCustomize","status":true,"description":"目的地画像カスタマイズプラグイン","parameters":{"不透明度":"255","合成方法":"0","表示色":"","独自画像":"system_clickTarget"}},
 {"name":"TMNamePop","status":true,"description":"イベントの頭上に文字列を表示する機能を追加します。","parameters":{"backOpacity":"96","fontSize":"18","fontOutlineWidth":"2","fontOutlineColor":"rgba(0, 0, 0, 0.5)","width":"160","useRoundRect":"0","roundRectRadius":"6"}},
-{"name":"DP_MapZoom","status":true,"description":"マップの拡大率を制御します。","parameters":{"Base Scale":"1","Encount Effect":"true","Camera Controll":"true","Weather Patch":"true","Picture Size Fixation":"true","Old Focus":"false","Easing Function":"t"}},
+{"name":"DP_MapZoom","status":true,"description":"マップの拡大率を制御します。","parameters":{"Base Scale":"1.5","Encount Effect":"true","Camera Controll":"true","Weather Patch":"true","Picture Size Fixation":"true","Old Focus":"false","Easing Function":"t"}},
 {"name":"CharacterGraphicExtend","status":true,"description":"キャラクターグラフィック表示拡張プラグイン","parameters":{"イベント消去無効":"false"}},
 {"name":"--------------------------","status":true,"description":"---------------------------------------------------------------","parameters":{}},
 {"name":"--選択系----------------","status":true,"description":"---------------------------------------------------------------","parameters":{}},
