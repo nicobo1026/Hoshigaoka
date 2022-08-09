@@ -17,6 +17,7 @@ var $plugins =
 {"name":"--------------------------","status":true,"description":"---------------------------------------------------------------","parameters":{}},
 {"name":"--デバッグ系--------------","status":true,"description":"---------------------------------------------------------------","parameters":{}},
 {"name":"AdjustPictureGraphical","status":true,"description":"ピクチャのグラフィカルな位置調整プラグイン。\r\nパラメータを変更したら「プロジェクトの保存」（Ctrl+S）","parameters":{"グリッドサイズ":"48","テストマップID":"-1"}},
+{"name":"SentenceDataExtractor","status":false,"description":"ゲーム起動時にゲーム中の全メッセージをテキストファイルに書き出す","parameters":{}},
 {"name":"--------------------------","status":true,"description":"---------------------------------------------------------------","parameters":{}},
 {"name":"--シーン用----------------","status":true,"description":"---------------------------------------------------------------","parameters":{}},
 {"name":"LoadingExtend","status":true,"description":"ロード中画像拡張プラグイン","parameters":{"イメージ列数":"4","イメージ行数":"1","表示タイプ":"2","アニメーション間隔":"10","表示位置X座標":"","表示位置Y座標":"","待機フレーム数":"10","点滅なし":"ON"}},
@@ -93,6 +94,5 @@ var $plugins =
 {"name":"EventInformation","status":true,"description":"イベントの頭上に文字を表示したい時に使います","parameters":{}},
 {"name":"RandomShake","status":true,"description":"イベントコマンド「画面のシェイク」にランダムに揺らす機能を追加します。","parameters":{"SwitchNumber":"13"}},
 {"name":"Yami_8DirEx","status":true,"description":"8方向移動(タッチパネル対応版)","parameters":{"dir4 Switch ID":"0"}},
-{"name":"Torigoya_TextRuby","status":true,"description":"メッセージにルビ記法を追加します","parameters":{"■ 基本設定":"","Main Text Scale":"0.90","Sub Text Scale":"0.35","Ignore Escape Characters":"false","■ 上級者向け設定":"","Dictionaries":""}},
-{"name":"SentenceDataExtractor","status":true,"description":"ゲーム起動時にゲーム中の全メッセージをテキストファイルに書き出す","parameters":{}}
+{"name":"Torigoya_TextRuby","status":true,"description":"メッセージにルビ記法を追加します","parameters":{"■ 基本設定":"","Main Text Scale":"0.90","Sub Text Scale":"0.35","Ignore Escape Characters":"false","■ 上級者向け設定":"","Dictionaries":""}}
 ];
